@@ -3,6 +3,3 @@ Recently I have been introduced to React, which is a popular javascript framewor
 
 
 
-## Links
-
-Practice Task: https://md-maheen-billah.github.io/Log-30/
